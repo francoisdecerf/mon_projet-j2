@@ -1,0 +1,24 @@
+diff --git a/README.md b/README.md
+index d872474..62464d1 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,8 @@
+-# mon_projet-j2
+\ No newline at end of file
++# mon-projet
++** C'est mon premier readme Youpi
++
++gitub
++skfqdsfjmq
++
++bidule truc chouette
++github
+\ No newline at end of file
+diff --git a/README.md.bak b/README.md.bak
+new file mode 100644
+index 0000000..d872474
+--- /dev/null
++++ b/README.md.bak
+@@ -0,0 +1 @@
++# mon_projet-j2
+\ No newline at end of file
